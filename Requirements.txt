@@ -1,0 +1,14 @@
+opencv-python
+uuid
+wget
+pyqt5
+lxml
+tensorflow
+matplotlib
+Pyyaml
+protobuf
+pycocotools
+gin-config
+gin
+tensorflow_addons
+PyQt5

@@ -1,0 +1,44 @@
+<!--
+   index.html
+   
+-->
+
+<html>
+  <head>
+    <title>FALCON VISION SERVER</title>
+    <link rel="stylesheet" href='../static/style.css'/>
+  </head>
+  <body>
+
+   <h1>AUTOMATIC NUMBER PLATE RECOGNITION SYSTEM</h1>
+
+   <div class="column">
+      <img src="{{ url_for('anpr') }}" alt="Forest" style="width:25%">
+   </div>
+
+   <form action="/get_info" method="get">
+       <label for="myfile">GET PLATE INFO:</label>
+       <input type="file" id="myfile" name="myfile"><br><br>
+       <input type="submit" value="LOAD">
+   </form>
+
+  <form action="/add_new" method="post">
+  <label for="Name">Name:</label><br>
+  <input type="text" id="Name" name="Name"><br>
+
+  <label for="Number">Number:</label><br>
+  <input type="text" id="number" name="number"><br>
+
+      <label for="Address">Address:</label><br>
+  <input type="text" id="Address" name="Address"><br>
+
+      <label for="Phone">Phone:</label><br>
+  <input type="text" id="Phone" name="Phone"><br><br>
+
+      <input type="submit" value="ADD">
+
+    </form>
+
+
+  </body>
+</html>

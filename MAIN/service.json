@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vehicle-tega",
+  "private_key_id": "db1473d4d57735b636b59e8d28c48f6528731ace",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCx5/HwXEZskThD\nIns/Eo+ksPaAbL5lb/p7TBP2EVmkD6YnsTxdqg/KwuXLsa977DdAdNP0j7sb4Gz5\ns5Z0wXIdbltKDLpfQe63G3TlECQiltCU3WYWFqkQp9PxAMkuOHW1mAcZ4i8flzon\neLp9TLuLzc37GWpUWJJgyJ+jxFPhnazRZtCeX7vOmRNPL2cA0mE+QEulHAFFVgRA\nbv0xrE7MZR4+a28Jc4H5K48j7erwjhCS2TJHBaJBs8r54A+i7GxXGWBASkvFWYTD\nfkei4/YaoYiWerYSc7DlROKBwK+loS6qe4NxoTtrRte/sd7vyH+PtL7W3XEgubcf\n+JWxT4RtAgMBAAECggEAIHh2koms+tzIeYxeFUV0fTklTIxMdeQpwf5BOGyzQTvv\n9helrmy/JCFNYs+j+UjETtnj46OmIXDlQu/xuo6iHtgJBmtrSr6UbMwwmixHhB6l\npD4Ch26MXfNbvgWIMozwgvvj8+fx9OCbpx+kXgE2y8381eMuIoXl9Y84f+Hx82AP\nXAMA2RCiKDOSRiyJCFu1wI3+y9upV/i/9vLt1383l9czNtOmQUJ9H4n6KjXvE+Ne\nwjzit7OmrA0wYCRcyUnjzxRRfKm/BwwdnMvwZ1pIDljEfY7ulZJdB9ZjOQfJWo8n\ncCPsk9HCIXKwIQTn1q2IcPA5VfiWv2og8quZt6ePGwKBgQDj79b901JrYQn1LJlH\nu8VvhkiGrkLPzR80ishcrVUXbqE0oQhV0zp+XIqc9qfYZRCrd5AguW3H+qm5bXAR\nduXdL//IRe6+L4ewRxVdoicNB4t4m/wE3uMMDbfDKPzYUu3l9npSiii+ME5pjg0I\ns9jGNRgnqGbCaFpkg50lF3FOCwKBgQDHzzkl+HeqqY3+oEjQTzCedY1Z5KhZfQyI\neAE0asOYFKZYMsal69L7iu1WCNhsgFRtqkIlXpYkp+LnikKUUIBmD8IkyDfs5Is4\nrmobuWPxvVfFIPS4nfzRcICcl83shmhKnMEb2aCIjC8nWU/PTE/LiRqe/TKkD9sM\n85n1HeQaZwKBgGt0tjYTWdeld7xNujVHIFzjQW282WJ9oSh0BOEsFeFmFjlpcTSE\n0B6iIfa9kYNCogkz5I6I3Ghak4kHPr38/4C3EC6qSVL/tUg1Oq1ZtG9AD1BcuQLS\n0Nbt4KPwvsJ81gqDmEcxOuPuggjhHuPrZVaL0Udg7JDaAUNBiOPjmVbhAoGBAJsQ\nsixKqSw0TDOY1wl6+6NuXVWvRAu3JXvfjifM16D2HaaDOXFZFDMNPWWwla2W5m75\nXD4+Ks2l0U2aGlOaKhuLDUOYcvaQ448IpOaBORRJuo0NJ38DdUphQh7FHRX7tYJ6\nJs/jVFfEW2/xOyQI+EBgVd2faKa0e26QuyHkobrvAoGBAMyt2I1+ZSNrH7vne5eG\nD4QiDv8tgwghzrRgBjwGMlhcT8JzGQ14CiDXLC0rpdKZn1ma+tr270VIhvP+CWkJ\nUa1qIPcoecjCvp6PxsOmnS5RfPEn3Y5C1DqoomHpDa9l/xw4wA2+oTgzGTT6+QRx\nYHgAv2nf0vEGzFTRRXu/wkVw\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-64wcg@vehicle-tega.iam.gserviceaccount.com",
+  "client_id": "114504518493219443418",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-64wcg%40vehicle-tega.iam.gserviceaccount.com"
+}
